@@ -1,0 +1,1 @@
+console.log("inserção feita com sucesso! Script 1");
