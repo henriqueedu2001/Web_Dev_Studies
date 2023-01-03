@@ -1,0 +1,9 @@
+footer{
+    background-color: #1869ab;
+    padding: 50px 0;
+}
+
+.page_foot{
+    display: flex;
+    flex-wrap: nowrap;
+}

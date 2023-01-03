@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgb(1, 15, 21) 49%, rgba(27,27,27,1) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+#page_foot_div{
+    background-color: #000000;
+    color: #000000;
+    padding: 10px;
+}
+
+#bigtext{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: "Montserrat";
+    font-style: normal;
+}
